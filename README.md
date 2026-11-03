@@ -8,6 +8,7 @@ Statyczne strony HTML. Obrazy i fonty są osadzone w plikach, więc nie wymagaj�
 - `NAA-Homepage-Bold2.html` — strona główna, wersja Bold2
 - `NAA-Category-Bold2.html` — strona kategorii (Wood Coatings), Bold2: breadcrumbs w banerze, sekcja „Shop by category”
 - `NAA-Product-Bold2.html` — strona produktu, Bold2
+- `NAA-Flexiblock-Bold2.html` — ogólna strona treści (General flexiblock z Figmy), Bold2: 13 komponentów oznaczonych `data-component` w HTML
 - `NAA-Homepage-Bold.html` — wcześniejsza wersja strony głównej (Bold)
 - `NAA-Homepage-Redesign.html` — wcześniejsza wersja strony głównej (Redesign)
 
